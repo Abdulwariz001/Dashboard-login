@@ -1,0 +1,71 @@
+.col-sm-3 li{
+    font-size: 15px;
+   
+}
+
+ul a{
+    text-decoration: none;
+    color: black;
+}
+
+.col-sm-3 a:hover{
+
+    color: black;
+    
+}
+
+.col-sm-3 ul li:hover{
+    background-color: rgb(173, 224, 255);
+    border-radius: 8px;
+
+}
+
+.col-sm-3 i{
+    font-size: 18px;
+    margin: 11px;
+}
+
+.icon1 i{
+    margin: 10px;
+}
+
+
+.icon2{
+    padding-left: 30%;
+   
+}
+
+.footer-no button{
+    border: none;
+    color: white;
+    padding: 8px;
+    background-color: rgb(49, 209, 49);
+    font-size: 14px;
+    margin: 12px;
+    border-radius: 8px;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    outline:none;
+}
+
+input[type=email]{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    outline:none;
+}
+
+input[type=submit]{
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    color: black;
+}
+
+
